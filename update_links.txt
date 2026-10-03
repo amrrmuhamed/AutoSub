@@ -1,5 +1,5 @@
 {
-    "sinocism": {
+    "Sinocism": {
         "url": "https://sinocism.com/subscribe",
         "steps": [
             {
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "php_weekly": {
+    "Php Weekly": {
         "url": "https://phpweekly.com/",
         "steps": [
             {
@@ -27,7 +27,7 @@
             }
         ]
     },
-    "kwmc_the_knowledge": {
+    "Kwmc The Knowledge": {
         "url": "https://kwmc.org.uk/projects/theknowledge",
         "steps": [
             {
@@ -46,21 +46,7 @@
             }
         ]
     },
-    "palm_beach_post": {
-        "url": "https://palmbeachpost.com/",
-        "steps": [
-            {
-                "xpath": "//input[@name=\"email\"]",
-                "action": "send_keys",
-                "value": "email"
-            },
-            {
-                "xpath": "//button[@aria-label=\"Submit to sign up for newsletter\"]",
-                "action": "click"
-            }
-        ]
-    },
-    "smashing_magazine": {
+    "Smashing Magazine": {
         "url": "https://www.smashingmagazine.com/the-smashing-newsletter/",
         "steps": [
             {
@@ -74,7 +60,7 @@
             }
         ]
     },
-    "nbk_kuwait": {
+    "Nbk Kuwait": {
         "url": "https://www.nbk.com/kuwait/newsletter.html",
         "steps": [
             {
@@ -89,7 +75,7 @@
         ],
         "post_action": "close_new_window"
     },
-    "women_talk_design_about": {
+    "Women Talk Design About": {
         "url": "https://womentalkdesign.com/about",
         "steps": [
             {
@@ -103,7 +89,7 @@
             }
         ]
     },
-    "women_talk_design": {
+    "Women Talk Design": {
         "url": "https://womentalkdesign.com/",
         "steps": [
             {
@@ -117,7 +103,7 @@
             }
         ]
     },
-    "yale_e360": {
+    "Yale E360": {
         "url": "https://e360.yale.edu/newsletter",
         "steps": [
             {
@@ -145,7 +131,7 @@
             }
         ]
     },
-    "the_recap": {
+    "The Recap": {
         "url": "https://therecap.io/",
         "steps": [
             {
@@ -159,7 +145,7 @@
             }
         ]
     },
-    "profile_tree": {
+    "Profile Tree": {
         "url": "https://profiletree.com/ai-in-the-cosmetic-industry/",
         "steps": [
             {
@@ -178,7 +164,7 @@
             }
         ]
     },
-    "yard_inflatables": {
+    "Yard Inflatables": {
         "url": "https://Yardinflatables.com",
         "steps": [
             {
@@ -192,7 +178,7 @@
             }
         ]
     },
-    "wweek": {
+    "Wweek": {
         "url": "https://wweek.com/newsletters",
         "steps": [
             {
@@ -206,7 +192,7 @@
             }
         ]
     },
-    "make_work_better": {
+    "Make Work Better": {
         "url": "https://www.makeworkbetter.info/",
         "steps": [
             {
@@ -220,7 +206,7 @@
             }
         ]
     },
-    "stanford_daily": {
+    "Stanford Daily": {
         "url": "https://stanforddaily.com/email-digests",
         "steps": [
             {
@@ -234,7 +220,7 @@
             }
         ]
     },
-    "first_1000": {
+    "First 1000": {
         "url": "https://read.first1000.co/",
         "steps": [
             {
@@ -248,7 +234,7 @@
             }
         ]
     },
-    "exec_sum": {
+    "Exec Sum": {
         "url": "https://execsum.co/",
         "steps": [
             {
@@ -262,7 +248,7 @@
             }
         ]
     },
-    "tker": {
+    "Tker": {
         "url": "https://tker.co/",
         "steps": [
             {
@@ -276,7 +262,7 @@
             }
         ]
     },
-    "umaar_dev_tips": {
+    "Umaar Dev Tips": {
         "url": "https://umaar.com/dev-tips",
         "steps": [
             {
@@ -290,7 +276,7 @@
             }
         ]
     },
-    "baeldung": {
+    "Baeldung": {
         "url": "https://baeldung.com/java-web-weekly",
         "steps": [
             {
@@ -304,7 +290,7 @@
             }
         ]
     },
-    "tech_manager_weekly": {
+    "Tech Manager Weekly": {
         "url": "https://techmanagerweekly.com/",
         "steps": [
             {
@@ -318,7 +304,7 @@
             }
         ]
     },
-    "schneier_crypto_gram": {
+    "Schneier Crypto Gram": {
         "url": "https://schneier.com/crypto-gram/subscribe",
         "steps": [
             {
@@ -332,7 +318,7 @@
             }
         ]
     },
-    "nocsdegree": {
+    "Nocsdegree": {
         "url": "https://nocsdegree.com/",
         "steps": [
             {
@@ -346,7 +332,7 @@
             }
         ]
     },
-    "geekout_matt_navarra": {
+    "Geekout Matt Navarra": {
         "url": "https://geekout.mattnavarra.com/",
         "steps": [
             {
@@ -360,7 +346,7 @@
             }
         ]
     },
-    "future_social": {
+    "Future Social": {
         "url": "https://futuresocial.beehiiv.com/",
         "steps": [
             {
@@ -374,7 +360,7 @@
             }
         ]
     },
-    "axios_am": {
+    "Axios Am": {
         "url": "https://axios.com/newsletters/axios-am",
         "steps": [
             {
@@ -388,7 +374,7 @@
             }
         ]
     },
-    "axios_pro_rata": {
+    "Axios Pro Rata": {
         "url": "https://axios.com/newsletters/axios-pro-rata",
         "steps": [
             {
@@ -402,7 +388,7 @@
             }
         ]
     },
-    "axios_media_trends": {
+    "Axios Media Trends": {
         "url": "https://axios.com/newsletters/axios-media-trends",
         "steps": [
             {
@@ -416,7 +402,7 @@
             }
         ]
     },
-    "axios_science": {
+    "Axios Science": {
         "url": "https://axios.com/newsletters/axios-science",
         "steps": [
             {
@@ -430,7 +416,7 @@
             }
         ]
     },
-    "axios_future": {
+    "Axios Future": {
         "url": "https://axios.com/newsletters/axios-future",
         "steps": [
             {
@@ -444,7 +430,7 @@
             }
         ]
     },
-    "weekend_briefing": {
+    "Weekend Briefing": {
         "url": "https://weekendbriefing.com/",
         "steps": [
             {
@@ -458,7 +444,7 @@
             }
         ]
     },
-    "ux_design_weekly": {
+    "Ux Design Weekly": {
         "url": "https://uxdesignweekly.com/",
         "steps": [
             {
@@ -472,7 +458,7 @@
             }
         ]
     },
-    "nonprofit_af": {
+    "Nonprofit Af": {
         "url": "https://nonprofitaf.com/?subscribe=many_pending_subs",
         "steps": [
             {
@@ -486,7 +472,7 @@
             }
         ]
     },
-    "james_clear": {
+    "James Clear": {
         "url": "https://jamesclear.com/newsletter",
         "steps": [
             {
@@ -500,7 +486,7 @@
             }
         ]
     },
-    "ritholtz": {
+    "Ritholtz": {
         "url": "https://ritholtz.com/",
         "steps": [
             {
@@ -514,7 +500,7 @@
             }
         ]
     },
-    "the_points_guy": {
+    "The Points Guy": {
         "url": "https://thepointsguy.com/newsletter",
         "steps": [
             {
@@ -528,7 +514,7 @@
             }
         ]
     },
-    "the_points_guy_daily": {
+    "The Points Guy Daily": {
         "url": "https://thepointsguy.com/newsletters/daily/?utm_source=organicsocial&utm_medium=social&utm_campaign=live/",
         "steps": [
             {
@@ -542,7 +528,7 @@
             }
         ]
     },
-    "ask_leo_newsletter": {
+    "Ask Leo Newsletter": {
         "url": "https://newsletter.askleo.com/",
         "steps": [
             {
@@ -556,7 +542,7 @@
             }
         ]
     },
-    "ask_leo": {
+    "Ask Leo": {
         "url": "https://askleo.com/",
         "steps": [
             {
@@ -570,7 +556,7 @@
             }
         ]
     },
-    "camden_county": {
+    "Camden County": {
         "url": "https://www.camdencounty.com/",
         "steps": [
             {
@@ -584,7 +570,7 @@
             }
         ]
     },
-    "sport_england": {
+    "Sport England": {
         "url": "https://www.sportengland.org/blogs/more-award",
         "steps": [
             {
@@ -598,7 +584,7 @@
             }
         ]
     },
-    "miliboo": {
+    "Miliboo": {
         "url": "https://www.miliboo.com/",
         "steps": [
             {
@@ -612,7 +598,7 @@
             }
         ]
     },
-    "seofomo": {
+    "Seofomo": {
         "url": "https://subscribe.page/s/seofomo?rh_ref=dc17f3ab&sl_campaign=MF7a0daadcfb",
         "steps": [
             {
@@ -626,7 +612,7 @@
             }
         ]
     },
-    "2b_egypt": {
+    "2b Egypt": {
         "url": "https://2b.com.eg/",
         "steps": [
             {
@@ -645,7 +631,7 @@
             }
         ]
     },
-    "italy_segreta": {
+    "Italy Segreta": {
         "url": "https://italysegreta.com/newsletter/",
         "steps": [
             {
@@ -659,7 +645,7 @@
             }
         ]
     },
-    "history_today": {
+    "History Today": {
         "url": "https://www.historytoday.com/newsletter",
         "steps": [
             {
@@ -674,7 +660,7 @@
         ],
         "post_action": "close_new_window"
     },
-    "ab_colombia": {
+    "Ab Colombia": {
         "url": "https://www.abcolombia.org.uk/news/abcolombia-newsletter/",
         "steps": [
             {
@@ -702,7 +688,7 @@
             }
         ]
     },
-    "letters_of_note": {
+    "Letters Of Note": {
         "url": "https://news.lettersofnote.com/",
         "steps": [
             {
@@ -716,7 +702,7 @@
             }
         ]
     },
-    "russiable": {
+    "Russiable": {
         "url": "https://russiable.com/newsletter/",
         "steps": [
             {
@@ -734,7 +720,7 @@
             }
         ]
     },
-    "atavist_magazine": {
+    "Atavist Magazine": {
         "url": "https://magazine.atavist.com/subscribe/",
         "steps": [
             {
@@ -748,7 +734,7 @@
             }
         ]
     },
-    "the_moscow_times": {
+    "The Moscow Times": {
         "url": "https://www.themoscowtimes.com/newsletters",
         "steps": [
             {
@@ -767,7 +753,7 @@
             }
         ]
     },
-    "the_fp": {
+    "The Fp": {
         "url": "https://www.thefp.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Fwww.thefp.com%2Fnewsletter",
         "steps": [
             {
@@ -781,7 +767,7 @@
             }
         ]
     },
-    "marketing_brew": {
+    "Marketing Brew": {
         "url": "https://marketingbrew.com/r?kid=94b733c0",
         "steps": [
             {
